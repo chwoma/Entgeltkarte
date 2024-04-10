@@ -59,7 +59,7 @@ source(here("scripts", "theme_entgelt.R"))
 set_theme_entgelt()
 
 #set text
-font_add_google("Raleway")
+font_add_google("Catamaran")
 #automatically use showtext to render text
 showtext_auto()
 

@@ -6,13 +6,13 @@ set_theme_entgelt <- function() {
       size = rel(1.2),
       hjust = 0,
       face = "bold",
-      family = "Raleway"
+      family = "Catamaran"
     ),
-    plot.subtitle = element_text(size = rel(.8), hjust = 0, family = "Raleway"),
-    plot.caption = element_text(size = rel(.7), hjust = 1,  family = "Raleway"),
+    plot.subtitle = element_text(size = rel(.8), hjust = 0, family = "Catamaran"),
+    plot.caption = element_text(size = rel(.7), hjust = 1,  family = "Catamaran"),
     plot.caption.position =  "plot",
-    legend.title = element_text(size = rel(.8), family = "Raleway"),
-    legend.text = element_text(size = rel(.8),family = "Raleway"),
+    legend.title = element_text(size = rel(.8), family = "Catamaran"),
+    legend.text = element_text(size = rel(.8),family = "Catamaran"),
     plot.margin = margin(
       t = 15,
       #Top
